@@ -1,0 +1,29 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Test results
+allure-results/
+allure-report/
+
+# Screenshots
+screenshots/
+
+# Logs
+logs/
+*.log
+
+# Environment / secrets
+.env
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
